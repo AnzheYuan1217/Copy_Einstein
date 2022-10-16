@@ -7,3 +7,8 @@ I think there is too little Lab work in school, and it takes practice to become 
 
 So, i wish to make an Einstein-Like Website, to check the correctness of Some specific programming problems.
 
+# Skills required
+### Programme Language:
+`HTML`
+`CSS`
+`Java Script`
