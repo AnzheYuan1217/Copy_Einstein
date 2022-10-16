@@ -11,5 +11,5 @@ So, i wish to make an Einstein-Like Website, to check the correctness of Some sp
 ### Programme Language:
 `HTML` `CSS` `Java Script`
 
-### Remote servers
-`Git`? `Docker`?
+### Remote servers - [Not sure yet]
+`Git?`  `Docker?`
