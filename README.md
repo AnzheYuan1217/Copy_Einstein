@@ -9,6 +9,4 @@ So, i wish to make an Einstein-Like Website, to check the correctness of Some sp
 
 # Skills required
 ### Programme Language:
-`HTML`
-`CSS`
-`Java Script`
+`HTML` `CSS` `Java Script`
