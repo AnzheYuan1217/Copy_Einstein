@@ -12,4 +12,4 @@ So, i wish to make an Einstein-Like Website, to check the correctness of Some sp
 `HTML` `CSS` `Java Script`
 
 ### Remote servers - [Not sure yet]
-`Github?` `Gitlab?` `Docker?` `any other cloud server?`
+`Github?` `Gitlab?` `Docker?` `some cloud server?`
